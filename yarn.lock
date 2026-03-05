@@ -4684,7 +4684,7 @@ __metadata:
     "@types/react": "npm:^18.2.0"
     eslint: "npm:^9.32.0"
     react: "npm:^18.2.0"
-    twenty-sdk: "npm:0.6.3"
+    twenty-sdk: "npm:0.6.3-canary"
     typescript: "npm:^5.9.3"
     typescript-eslint: "npm:^8.50.0"
     vite-tsconfig-paths: "npm:^4.2.1"
@@ -6907,9 +6907,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"twenty-sdk@npm:0.6.3":
-  version: 0.6.3
-  resolution: "twenty-sdk@npm:0.6.3"
+"twenty-sdk@npm:0.6.3-canary":
+  version: 0.6.3-canary
+  resolution: "twenty-sdk@npm:0.6.3-canary"
   dependencies:
     "@chakra-ui/react": "npm:^3.33.0"
     "@emotion/react": "npm:^11.14.0"
@@ -6945,7 +6945,7 @@ __metadata:
     zod: "npm:^4.1.11"
   bin:
     twenty: dist/cli.cjs
-  checksum: 10c0/44bc143d6125393effeb749aaa9795b22591d2add713485304df46cc0bbbe8c1155ff0f833f848658bb3ae2857276c4c830649a3fb9d3e56c8bca458107bcc88
+  checksum: 10c0/aa5a936fe751345fb4f805a38b7c6fa51f6f5599fd82d7f1a1d607123b00dbf3470c733587ec0078146579376300a65e490b6a6651dbec765f8f69f5a01df678
   languageName: node
   linkType: hard
 
